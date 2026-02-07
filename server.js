@@ -32,4 +32,3 @@ else {
 
 server.listen (8000,'127.1.1.0');
 console.log("listening the server ....")
-console.log(hello);
